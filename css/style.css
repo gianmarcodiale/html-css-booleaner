@@ -58,4 +58,20 @@ main {
 #unordered {
     padding-left: 15px;
 }
+
+/* table */
+#tabella {
+    width: 1430px;
+    table-layout: fixed;
+}
+
+#first_row {
+    text-align: left;
+    background-color: #20A9E5;
+    color: white;
+}
+
+.blue_row {
+    background-color: #B1E5F2;
+}
 /* footer */
