@@ -37,13 +37,25 @@ h1 {
 
 .tim {
     padding-top: 15px;
+    padding-left: 5px;
 }
 
 .photo_credits {
     line-height: 1px;
     font-size: 13px;
+    padding-left: 5px;
 }
 
 /* articolo */
+main {
+    padding-left: 5px;
+}
 
+.highlight {
+    background-color: #FFFF00;
+}
+
+#unordered {
+    padding-left: 15px;
+}
 /* footer */
